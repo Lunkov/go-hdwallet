@@ -31,9 +31,11 @@ const(
 	ETH  = ZeroQuote + 60
 	ETC  = ZeroQuote + 61
 	BCH  = ZeroQuote + 145
+  EVER = ZeroQuote + 396
 	QTUM = ZeroQuote + 2301
 	WICC = ZeroQuote + 99999
 	WICC_TESTNET = ZeroQuote + 999999
+  ECOS = ZeroQuote + 202304
 
 	// btc token
 	USDT = BTCToken + 1
